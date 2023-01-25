@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://xieash.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -7,7 +7,7 @@ title: Example Site
 languages:
   zh-cn:
     languageName: 中文
-    title: 演示站点
+    title: Xieash
     description: 演示说明
     weight: 2
 
@@ -26,7 +26,7 @@ DefaultContentLanguage: zh-cn
 hasCJKLanguage: false
 
 permalinks:
-  post: /p/:slug/
+  post: /:slug/
   page: /:slug/
 
 params:
@@ -188,15 +188,16 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: https://github.com/CaiJimmy/hugo-theme-stack
+      url: https://github.com/XieZhy9
       params:
-        icon: brand-github
+        icon:
+          brand-github
 
-    - identifier: twitter
-      name: Twitter
-      url: https://twitter.com
-      params:
-        icon: brand-twitter
+          # - identifier: twitter
+          #name: Twitter
+          #url: https://twitter.com
+          #params:
+          #icon: brand-twitter
 
 related:
   includeNewer: true
@@ -226,4 +227,3 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     tabWidth: 4
-
