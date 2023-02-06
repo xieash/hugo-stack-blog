@@ -8,7 +8,7 @@ languages:
   zh-cn:
     languageName: 中文
     title: xieash
-    description: 我是一个描述
+    description: 我是一个描述a
     weight: 2
 
 # Change it to your Disqus shortname before using
