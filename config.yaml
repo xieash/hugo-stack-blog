@@ -7,8 +7,8 @@ title: Example Site
 languages:
   zh-cn:
     languageName: 中文
-    title: 想不出来
-    description: 演示说明
+    title: xieash
+    description: 我是一个描述
     weight: 2
 
 # Change it to your Disqus shortname before using
